@@ -1,0 +1,16 @@
+{
+    "models": {
+        "model_1": {
+            "balance": 1000,
+            "weight": 0.5
+        },
+        "model_2": {
+            "balance": 1000,
+            "weight": 0.5
+        },
+        "model_3": {
+            "balance": 1000,
+            "weight": 0.5
+        }
+    }
+}
